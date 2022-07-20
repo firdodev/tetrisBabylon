@@ -11,7 +11,7 @@ npm run start<br><br>
 
 And then go to your local host
 
-http://localhost:8080/
+http://localhost:3000/
 
 
 
